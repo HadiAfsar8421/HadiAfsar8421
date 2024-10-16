@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HadiAfsar8421
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Ursina Game Engine
+- 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me - Discord HadaAfsar8421
 - 😄 Pronouns: He/Him
