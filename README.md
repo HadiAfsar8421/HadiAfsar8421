@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me - Discord HadaAfsar8421
+- 📫 How to reach me - Discord afere168421
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ilearnt programming at the age of 7
 
